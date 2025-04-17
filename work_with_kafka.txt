@@ -1,0 +1,5 @@
+# Create topic (optional, Spark auto-subscribes)
+docker exec -it <kafka-container-name> kafka-topics --create \
+  --topic lidar-data \
+  --bootstrap-server localhost:9092 \
+  --partitions 1 --replication-factor 1

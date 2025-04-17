@@ -1,0 +1,9 @@
+---
+
+## To Do
+
+- [ ] Set up Arduino + LiDAR + Wi-Fi
+- [ ] Kafka topic + simple producer
+- [ ] Spark streaming job
+- [ ] Save data
+- [ ] Visual result + UI
