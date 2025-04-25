@@ -70,3 +70,5 @@ This is a personal project to build a robot car that streams LiDAR and sensor da
 ---
 
 ## Folder Structure
+
+presents and guests list
